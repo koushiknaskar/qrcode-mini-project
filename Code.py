@@ -1,3 +1,6 @@
+#First step go to cmd and type "pip install qrcode" it will install the most of the necessary files.
+#Scond step again go to cmd and type "pip install image" it will install the rest of of the files.
+
 import qrcode
 import image
 qr = qrcode.QRCode(
